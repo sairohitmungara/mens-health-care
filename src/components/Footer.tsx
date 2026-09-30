@@ -19,7 +19,7 @@ function Footer() {
   };
 
   return (
-    <footer className="bg-slate-950 text-white">
+    <footer id="about" className="bg-slate-950 text-white">
       <div className="mx-auto max-w-7xl px-6 py-16 md:px-10 lg:px-16">
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
